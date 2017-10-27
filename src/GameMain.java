@@ -4,12 +4,7 @@ import controller.MainController;
 import view.GameView;
 import model.GameModel;
 
-/**
- * 
- * @author Bogdan Kostka
- * @author Student AGH
- *
- */
+
 public class GameMain {
 	
 	public static void main(String [] args) {
